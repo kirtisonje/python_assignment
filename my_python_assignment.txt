@@ -1,1 +1,0 @@
-Hello! This text was written using Python's file operations.
